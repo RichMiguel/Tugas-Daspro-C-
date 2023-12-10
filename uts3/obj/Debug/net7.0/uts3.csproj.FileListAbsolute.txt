@@ -1,0 +1,14 @@
+D:\Daspro\uts3\bin\Debug\net7.0\uts3.exe
+D:\Daspro\uts3\bin\Debug\net7.0\uts3.deps.json
+D:\Daspro\uts3\bin\Debug\net7.0\uts3.runtimeconfig.json
+D:\Daspro\uts3\bin\Debug\net7.0\uts3.dll
+D:\Daspro\uts3\bin\Debug\net7.0\uts3.pdb
+D:\Daspro\uts3\obj\Debug\net7.0\uts3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daspro\uts3\obj\Debug\net7.0\uts3.AssemblyInfoInputs.cache
+D:\Daspro\uts3\obj\Debug\net7.0\uts3.AssemblyInfo.cs
+D:\Daspro\uts3\obj\Debug\net7.0\uts3.csproj.CoreCompileInputs.cache
+D:\Daspro\uts3\obj\Debug\net7.0\uts3.dll
+D:\Daspro\uts3\obj\Debug\net7.0\refint\uts3.dll
+D:\Daspro\uts3\obj\Debug\net7.0\uts3.pdb
+D:\Daspro\uts3\obj\Debug\net7.0\uts3.genruntimeconfig.cache
+D:\Daspro\uts3\obj\Debug\net7.0\ref\uts3.dll

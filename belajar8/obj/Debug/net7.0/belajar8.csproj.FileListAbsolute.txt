@@ -1,0 +1,14 @@
+D:\Daspro\belajar8\bin\Debug\net7.0\belajar8.exe
+D:\Daspro\belajar8\bin\Debug\net7.0\belajar8.deps.json
+D:\Daspro\belajar8\bin\Debug\net7.0\belajar8.runtimeconfig.json
+D:\Daspro\belajar8\bin\Debug\net7.0\belajar8.dll
+D:\Daspro\belajar8\bin\Debug\net7.0\belajar8.pdb
+D:\Daspro\belajar8\obj\Debug\net7.0\belajar8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daspro\belajar8\obj\Debug\net7.0\belajar8.AssemblyInfoInputs.cache
+D:\Daspro\belajar8\obj\Debug\net7.0\belajar8.AssemblyInfo.cs
+D:\Daspro\belajar8\obj\Debug\net7.0\belajar8.csproj.CoreCompileInputs.cache
+D:\Daspro\belajar8\obj\Debug\net7.0\belajar8.dll
+D:\Daspro\belajar8\obj\Debug\net7.0\refint\belajar8.dll
+D:\Daspro\belajar8\obj\Debug\net7.0\belajar8.pdb
+D:\Daspro\belajar8\obj\Debug\net7.0\belajar8.genruntimeconfig.cache
+D:\Daspro\belajar8\obj\Debug\net7.0\ref\belajar8.dll

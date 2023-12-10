@@ -1,0 +1,14 @@
+D:\Daspro\belajar11\bin\Debug\net7.0\belajar11.exe
+D:\Daspro\belajar11\bin\Debug\net7.0\belajar11.deps.json
+D:\Daspro\belajar11\bin\Debug\net7.0\belajar11.runtimeconfig.json
+D:\Daspro\belajar11\bin\Debug\net7.0\belajar11.dll
+D:\Daspro\belajar11\bin\Debug\net7.0\belajar11.pdb
+D:\Daspro\belajar11\obj\Debug\net7.0\belajar11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daspro\belajar11\obj\Debug\net7.0\belajar11.AssemblyInfoInputs.cache
+D:\Daspro\belajar11\obj\Debug\net7.0\belajar11.AssemblyInfo.cs
+D:\Daspro\belajar11\obj\Debug\net7.0\belajar11.csproj.CoreCompileInputs.cache
+D:\Daspro\belajar11\obj\Debug\net7.0\belajar11.dll
+D:\Daspro\belajar11\obj\Debug\net7.0\refint\belajar11.dll
+D:\Daspro\belajar11\obj\Debug\net7.0\belajar11.pdb
+D:\Daspro\belajar11\obj\Debug\net7.0\belajar11.genruntimeconfig.cache
+D:\Daspro\belajar11\obj\Debug\net7.0\ref\belajar11.dll

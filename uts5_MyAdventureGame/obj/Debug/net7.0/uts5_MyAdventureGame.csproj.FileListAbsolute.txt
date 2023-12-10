@@ -1,0 +1,14 @@
+D:\Daspro\uts5_MyAdventureGame\bin\Debug\net7.0\uts5_MyAdventureGame.exe
+D:\Daspro\uts5_MyAdventureGame\bin\Debug\net7.0\uts5_MyAdventureGame.deps.json
+D:\Daspro\uts5_MyAdventureGame\bin\Debug\net7.0\uts5_MyAdventureGame.runtimeconfig.json
+D:\Daspro\uts5_MyAdventureGame\bin\Debug\net7.0\uts5_MyAdventureGame.dll
+D:\Daspro\uts5_MyAdventureGame\bin\Debug\net7.0\uts5_MyAdventureGame.pdb
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\uts5_MyAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\uts5_MyAdventureGame.AssemblyInfoInputs.cache
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\uts5_MyAdventureGame.AssemblyInfo.cs
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\uts5_MyAdventureGame.csproj.CoreCompileInputs.cache
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\uts5_MyAdventureGame.dll
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\refint\uts5_MyAdventureGame.dll
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\uts5_MyAdventureGame.pdb
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\uts5_MyAdventureGame.genruntimeconfig.cache
+D:\Daspro\uts5_MyAdventureGame\obj\Debug\net7.0\ref\uts5_MyAdventureGame.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "uts5_MyAdventureGame/1.0.0": {
+        "runtime": {
+          "uts5_MyAdventureGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uts5_MyAdventureGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Daspro2\uts1\bin\Debug\net7.0\uts1.exe
+D:\Daspro2\uts1\bin\Debug\net7.0\uts1.deps.json
+D:\Daspro2\uts1\bin\Debug\net7.0\uts1.runtimeconfig.json
+D:\Daspro2\uts1\bin\Debug\net7.0\uts1.dll
+D:\Daspro2\uts1\bin\Debug\net7.0\uts1.pdb
+D:\Daspro2\uts1\obj\Debug\net7.0\uts1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daspro2\uts1\obj\Debug\net7.0\uts1.AssemblyInfoInputs.cache
+D:\Daspro2\uts1\obj\Debug\net7.0\uts1.AssemblyInfo.cs
+D:\Daspro2\uts1\obj\Debug\net7.0\uts1.csproj.CoreCompileInputs.cache
+D:\Daspro2\uts1\obj\Debug\net7.0\uts1.dll
+D:\Daspro2\uts1\obj\Debug\net7.0\refint\uts1.dll
+D:\Daspro2\uts1\obj\Debug\net7.0\uts1.pdb
+D:\Daspro2\uts1\obj\Debug\net7.0\uts1.genruntimeconfig.cache
+D:\Daspro2\uts1\obj\Debug\net7.0\ref\uts1.dll
