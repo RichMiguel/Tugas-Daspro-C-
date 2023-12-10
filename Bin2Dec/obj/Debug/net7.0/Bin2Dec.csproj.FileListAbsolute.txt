@@ -1,0 +1,14 @@
+D:\Daspro\Bin2Dec\bin\Debug\net7.0\Bin2Dec.exe
+D:\Daspro\Bin2Dec\bin\Debug\net7.0\Bin2Dec.deps.json
+D:\Daspro\Bin2Dec\bin\Debug\net7.0\Bin2Dec.runtimeconfig.json
+D:\Daspro\Bin2Dec\bin\Debug\net7.0\Bin2Dec.dll
+D:\Daspro\Bin2Dec\bin\Debug\net7.0\Bin2Dec.pdb
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\Bin2Dec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\Bin2Dec.AssemblyInfoInputs.cache
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\Bin2Dec.AssemblyInfo.cs
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\Bin2Dec.csproj.CoreCompileInputs.cache
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\Bin2Dec.dll
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\refint\Bin2Dec.dll
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\Bin2Dec.pdb
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\Bin2Dec.genruntimeconfig.cache
+D:\Daspro\Bin2Dec\obj\Debug\net7.0\ref\Bin2Dec.dll
